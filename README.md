@@ -1,6 +1,7 @@
 # NECAnalyzer
 
 Saleae Logic Analyzer for the NEC/IR-Remote Protocol.
+An example trace from my IR remote is located in at `/example/remote_logictrace.logicdata` which can be opened with Logic and Analyzed using this code.
 
 * Saleae: https://www.saleae.com
 * Saleae Logic: https://www.saleae.com/downloads
